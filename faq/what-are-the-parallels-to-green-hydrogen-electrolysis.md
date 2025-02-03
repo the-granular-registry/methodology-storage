@@ -1,0 +1,3 @@
+# What are the parallels to Green Hydrogen Electrolysis?
+
+Green hydrogen electrolysis shares some of the same requirements as a utility battery. They are both loads on the grid, and production requires an emissions factor of tCO2 per production unit. Today's industry standard is to follow the GHGP inventory for scopes 1 and 2. Many government subsidies require hourly matching, while others advocate for emissions-matching. Consistent accounting is important since the only difference is that battery storage produces electricity rather than hydrogen. The emissions factor of a battery’s output should be comparable to other electricity generation.
