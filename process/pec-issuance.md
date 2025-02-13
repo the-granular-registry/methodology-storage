@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # PEC Issuance
 
 ## Process Overview

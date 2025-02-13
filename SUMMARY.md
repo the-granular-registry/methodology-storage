@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [What are Power Emissions Certificates?](what-are-power-emissions-certificates.md)
 
 ## PROCESS
 
-* [Process Overview](process/process-overview.md)
-* [Assessing Charging Activity](process/assessing-charging-activity.md)
-* [Source PECs for Charging Inventory](process/source-pecs-for-charging-inventory.md)
+* [Storage Charge Records (SCRs)](process/storage-charge-records-scrs.md)
+* [Storage Charge Records (SCRs) and Storage Discharge Records (SDRs)](process/storage-charge-records-scrs-and-storage-discharge-records-sdrs.md)
+* [Storage Allocation Records (SARs)](process/storage-allocation-records-sars.md)
+* [Storage Discharge Granular Certificate (SD-GC) Issuance](process/storage-discharge-granular-certificate-sd-gc-issuance.md)
 * [PEC Issuance](process/pec-issuance.md)
 * [Copy of PEC Issuance](process/copy-of-pec-issuance.md)
 * [Handling Data Time Lags and Accuracy](process/handling-data-time-lags-and-accuracy.md)

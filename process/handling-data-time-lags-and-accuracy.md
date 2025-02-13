@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Handling Data Time Lags and Accuracy
 
 **Data Time Lags**
