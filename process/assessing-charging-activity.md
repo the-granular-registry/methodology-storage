@@ -1,4 +1,4 @@
-# Assessing Charging Impact
+# Assessing Charging Activity
 
 Assessing the carbon impact during the charging phase of an energy storage system is essential for accurately calculating induced emissions. This section outlines the methodology for calculating emissions during charging periods and details the use of Marginal Emissions Rates (MER) in these calculations. It also addresses considerations related to data time lags and accuracy to ensure reliable results.
 

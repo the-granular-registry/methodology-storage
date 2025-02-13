@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Alternative Method 2: Issue PECs for Net Emissions
 
 Issue PECs for discharge energy based on net emissions. If the battery has net avoided emissions after accounting for all charging and discharging activities, the net emissions will be spread evenly over the hours of discharging when issuing PECs.

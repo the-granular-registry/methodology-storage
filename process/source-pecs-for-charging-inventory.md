@@ -1,4 +1,4 @@
-# Neutralizing Charging Impact
+# Source PECs for Charging Inventory
 
 Neutralizing the carbon impact of charging an energy storage system is a crucial step in ensuring that the operation does not result in a net increase in greenhouse gas emissions.&#x20;
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Alternative Method 3: Issue PECs for All Hours of Activity
 
 Issue PECs for all hours of battery activity, including hours with positive net emissions. Issue carbon-positive PECs for charging activity and carbon-negative PECs for discharging activity. A PEC agreement offtaker would retire all PECs issued to the storage asset, resulting in the same net avoided emissions.
