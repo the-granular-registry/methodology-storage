@@ -31,11 +31,11 @@ PECs are retired to match hours of charging and sourced from the same balance au
 | --------------------------------------- | ----------------- |
 | Retired PEC Average MER (tCO2/MWh)      | 0.18              |
 | Percent hourly-matched                  | 100%              |
-| Carbon Impact of Retired PECs (tCO2)    | -900              |
+| Carbon Impact of Retired GCs (tCO2)     | -900              |
 | Remaining charging carbon impact (tCO2) | 1,000 – 900 = 100 |
 | Percent emissions-matched               | 90%               |
 
-## Submit Project Data for Verification and PEC Issuance&#x20;
+## Submit Project Data for Verification and GC Issuance&#x20;
 
 The PEC registry verifies the meter data, emissions data, and retired PECs. Upon completion, a Power Emissions Proof Report will be created along with the issued PECs.
 

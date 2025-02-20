@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Carbon Shifting
 
 ## **Collect Meter Data**
