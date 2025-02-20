@@ -11,7 +11,7 @@ A battery had the following activity derived from hourly meter data.
 
 ## Assess the Impact of Charging Activity
 
-Using the PECA emissions source hierarchy, REsurety was chosen as the emissions data provider.&#x20;
+Using the GRF emissions source hierarchy, REsurety was chosen as the emissions data provider.&#x20;
 
 * Hours of charging
 * Volume of Energy (MWh)
@@ -25,11 +25,11 @@ Using the PECA emissions source hierarchy, REsurety was chosen as the emissions 
 
 ## Neutralize Charging Impact (Hourly-Matching)
 
-PECs are retired to match hours of charging and sourced from the same balance authority, complying with the EnergyTag Standard.
+GCs are retired to match hours of charging and sourced from the same balance authority, complying with the EnergyTag Standard.
 
-| Retired PECs                            | 5000              |
+| Retired GCs                            | 5000              |
 | --------------------------------------- | ----------------- |
-| Retired PEC Average MER (tCO2/MWh)      | 0.18              |
+| Retired GC Average MER (tCO2/MWh)      | 0.18              |
 | Percent hourly-matched                  | 100%              |
 | Carbon Impact of Retired GCs (tCO2)     | -900              |
 | Remaining charging carbon impact (tCO2) | 1,000 – 900 = 100 |
@@ -37,24 +37,24 @@ PECs are retired to match hours of charging and sourced from the same balance au
 
 ## Submit Project Data for Verification and GC Issuance&#x20;
 
-The PEC registry verifies the meter data, emissions data, and retired PECs. Upon completion, a Power Emissions Proof Report will be created along with the issued PECs.
+The GC registry verifies the meter data, emissions data, and retired GCs. Upon completion, a GC Matching Report will be created along with the issued GCs.
 
 | Average discharging MER (tCO2/MWh)      | 0.45                      |
 | --------------------------------------- | ------------------------- |
 | Gross discharge carbon impact (tCO2)    | 4,250 \* 0.45 = -1,912.5  |
 | Adjusted discharge carbon impact (tCO2) | -1,912.5 + 100 = -1,812.5 |
-| Issued PECs                             | 4,250                     |
-| Issued PEC Average MER (tCO2/MWh)       | 0.43                      |
+| Issued GCs                             | 4,250                     |
+| Issued GC Average MER (tCO2/MWh)       | 0.43                      |
 
 ## Contract Settlement
 
-Settling the PEC agreement using a predetermined carbon price.
+Settling the GC agreement using a predetermined carbon price.
 
-| Issued PECs Sales Revenue | $181,250 |
+| Issued GCs Sales Revenue | $181,250 |
 | ------------------------- | -------- |
-| Retired PEC Cost          | -$90,000 |
+| Retired GC Cost          | -$90,000 |
 | Net Profit                | $91,250  |
 
 ## Carbon Accounting
 
-This battery has converted 5,000 low-impact PECs into 4,250 high-impact PECs by shifting the hours of CFE generation. Adding a ‘virtual hybrid’ to low-impact PPAs will fill gaps in 24/7 PPAs.
+This battery has converted 5,000 low-impact GCs into 4,250 high-impact GCs by shifting the hours of CFE generation. Adding a ‘virtual hybrid’ to low-impact PPAs will fill gaps in 24/7 PPAs.
