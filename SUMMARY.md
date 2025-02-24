@@ -8,6 +8,7 @@
 * [Storage Charge Records (SCRs) and Storage Discharge Records (SDRs)](process/storage-charge-records-scrs-and-storage-discharge-records-sdrs.md)
 * [Granular Registry Methodology for Time-Shifting Granular Certificates Using Storage Transfer Records](process/granular-registry-methodology-for-time-shifting-granular-certificates-using-storage-transfer-records.md)
 * [Storage Allocation Records (SARs)](process/storage-allocation-records-sars.md)
+* [Methodology Document for Storage Allocation Records (SAR) with Carbon Impact](process/methodology-document-for-storage-allocation-records-sar-with-carbon-impact.md)
 * [Storage Discharge Granular Certificate (SD-GC) Issuance](process/storage-discharge-granular-certificate-sd-gc-issuance.md)
 * [PEC Issuance](process/pec-issuance.md)
 * [Copy of PEC Issuance](process/copy-of-pec-issuance.md)

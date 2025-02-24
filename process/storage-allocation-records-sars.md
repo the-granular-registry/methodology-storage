@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Storage Allocation Records (SARs)
 
 ## **Introduction**
