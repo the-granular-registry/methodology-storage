@@ -1,36 +1,16 @@
----
-hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# Executive Summary
 
-# Introduction
+The landscape of corporate decarbonization is rapidly evolving beyond traditional annual matching frameworks. Driven by stakeholder demands for greater credibility and demonstrable environmental impact, leading organizations are pursuing two primary advanced strategies: 24/7 Carbon-Free Electricity (CFE), which requires matching consumption with CFE generation on an hourly basis, and Emissionality (or Net-Impact), which focuses on maximizing avoided grid emissions by strategically timing clean energy delivery.<sup>1</sup> Energy storage, particularly utility-scale battery systems, is indispensable for achieving both objectives by enabling the temporal shifting of energy. However, a critical market gap exists: current Energy Attribute Certificate (EAC) systems, including Renewable Energy Certificates (RECs) and Guarantees of Origin (GOs), lack a standardized, transparent, and tradable mechanism to account for the time-shifting service provided by storage.<sup>5</sup> This forces reliance on complex, bespoke storage tolling agreements or opaque internal tracking, hindering scalability, market liquidity, and auditability.<sup>9</sup>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<p align="center"><a href="https://www.youtube.com/embed/PR65x1vhc2Y?feature=oembed"><img src=".gitbook/assets/STAR Overview" alt="STAR Overview"></a></p>
 
-## Enabling Easy Settlement of Storage Forward Contracts
+To address this deficiency, Granular Registry proposes a two-layer market infrastructure built upon its Granular Registry. The Granular Registry serves as the foundation, converting conventional MWh-based RECs into hourly Granular Certificates (GCs) that retain all source attributes while adding a precise timestamp compliant with the EnergyTag standard.<sup>2</sup> Layered upon this is the introduction of Storage Time Allocation Records (STARs), a novel, tradable environmental commodity issued via the Granular Registry to registered energy storage operators. STARs provide a verifiable, standardized record of the energy time-shifting service, capturing charging inputs, discharging outputs, and associated round-trip efficiency losses under a robust First-In-First-Out (FIFO) allocation model.
 
-Like REC agreements in renewable generation, corporate buyers can enter a long-term contract for energy storage's time-shifting and carbon impact using Power Emissions Certificates (PECs). Storage can now be incorporated into various corporate procurement strategies:
+The mechanism involves pairing a purchased STAR with a corresponding GC. Both instruments are then retired within the Granular Registry to generate a final, non-tradable Storage-Discharge Granular Certificate (SD-GC). The SD-GC inherits the attributes of the original GC but carries an updated timestamp reflecting the discharge hour, along with immutable provenance data linking it back to the specific STAR and storage event. This process serves both primary decarbonization strategies:
 
-* For emissionality, a carbon price will incentivize battery operation to co-optimize dispatch logic to capture carbon revenue. An emissionality-index PEC agreement would be a simple way of incorporating energy storage into corporate procurement.&#x20;
-* For 24/7 hourly matching, in some geographies, the supply of carbon-free energy (CFE) can be limited at certain hours of the day. A premium price will be given to hourly PECs that have been time-shifted from hours of high CFE supply to hours of low CFE supply.
+* **24/7 CFE:** Buyers acquire STARs to shift surplus GCs from hours of oversupply (e.g., midday solar) to cover consumption during deficit hours (e.g., evening peaks), achieving verifiable hourly matching without assuming storage operational risk.
+* **Emissionality:** Buyers utilize the STAR's linkage between charge and discharge times, potentially combined with Marginal Emissions Rate (MER) data, to quantify and claim the enhanced carbon impact achieved by shifting clean energy into periods with higher emissions on the grid.
 
-## The PEC Approach
+STARs offer significant advantages over traditional storage tolling agreements by commoditizing the time-shifting attribute, thereby simplifying contracts, transferring operational and market risks from the attribute buyer to the storage operator, and enabling a liquid, scalable, and transparent market analogous to existing REC markets.
 
-The goal is to create a market instrument enabling easy settlement of a forward contract for energy storage time shifting and carbon shifting based on marginal emissions factors and power meter data. This market instrument must be useful for corporate carbon accounting and reporting.
-
-There are two main approaches:
-
-1. Energy attribute certificates based on inventory accounting, such as RECs.
-2. Carbon offsets based on consequential accounting.
-
-The [PEC Alliance (PECA)](http://www.pec-alliance.org) is a collaborative initiative focused on using Power Emissions Certificates (PECs), which are RECs enhanced with marginal emissions and timestamps, to achieve the goal of promoting sustainable energy practices. By enhancing the value of RECs, PECA is driving the adoption of PECs in the energy industry.
+This whitepaper provides a comprehensive technical overview of the STAR mechanism. It details the data architecture within the Granular Registry, the operational rules governing STAR issuance and retirement (including FIFO allocation and loss accounting), and the methods for integrating with legacy REC systems. It explores the application of STARs in achieving 24/7 CFE and emissionality goals, supported by illustrative examples. Furthermore, it outlines the benefits for various market stakeholders and presents a roadmap for market integration and adoption, positioning STARs as the critical missing link needed to fully unlock and value the temporal flexibility of energy storage in the transition to a decarbonized power grid.

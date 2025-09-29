@@ -2,9 +2,7 @@
 
 ##
 
-
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Figure 1: Example Hybrid Solar Plus Storage Emissions and LME Profile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Figure 1: Example Hybrid Solar Plus Storage Emissions and LME Profile</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +17,7 @@ This use case enables a corporate offtaker to sell GCs from an operational renew
 Table 1: Summary of Contract Structures
 
 | Approach                                             | Source of GCs                                                                     | Customer of GCs                                      |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | <p>Full Contract – Bilateral<br>“Virtual Hybrid”</p> | Low-Impact GC Agreement with Corporate Buyer or Utility with an Operational Asset | High-Impact GC Agreement with the same party.        |
 | Full Contract – Trilateral                           | GC Agreement with Renewable Generator                                             | Offtake GC Agreement with Corporate Buyer or Utility |
 | Supplier Contract Only                               | GC Agreement with Renewable Generator                                             | Sell high-impact GCs on Marketplace                  |

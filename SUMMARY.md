@@ -1,17 +1,16 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Executive Summary](README.md)
+* [The Imperative for Granular Tracking and Energy Time-Shifting](the-imperative-for-granular-tracking-and-energy-time-shifting.md)
+* [Introducing Storage Time Allocation Records (STARs): A Market-Based Solution](introducing-storage-time-allocation-records-stars-a-market-based-solution.md)
+* [STARs vs. Storage Tolling Agreements: A Strategic Comparison](stars-vs.-storage-tolling-agreements-a-strategic-comparison.md)
 
 ## PROCESS
 
 * [Storage Charge Records (SCRs)](process/storage-charge-records-scrs.md)
 * [Storage Charge Records (SCRs) and Storage Discharge Records (SDRs)](process/storage-charge-records-scrs-and-storage-discharge-records-sdrs.md)
-* [Granular Registry Methodology for Time-Shifting Granular Certificates Using Storage Transfer Records](process/granular-registry-methodology-for-time-shifting-granular-certificates-using-storage-transfer-records.md)
-* [Storage Allocation Records (SARs)](process/storage-allocation-records-sars.md)
-* [Methodology Document for Storage Allocation Records (SAR) with Carbon Impact](process/methodology-document-for-storage-allocation-records-sar-with-carbon-impact.md)
 * [Storage Discharge Granular Certificate (SD-GC) Issuance](process/storage-discharge-granular-certificate-sd-gc-issuance.md)
 * [PEC Issuance](process/pec-issuance.md)
-* [Copy of PEC Issuance](process/copy-of-pec-issuance.md)
 * [Handling Data Time Lags and Accuracy](process/handling-data-time-lags-and-accuracy.md)
 
 ## Time-Shifting
