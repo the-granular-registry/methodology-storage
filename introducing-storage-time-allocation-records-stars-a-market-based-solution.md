@@ -38,6 +38,6 @@ The integrity and market acceptance of STARs hinge on rigorous adherence to oper
   * Decentralized Identifiers (DIDs): Potentially used to manage the identities of participants (registry, operators, buyers) and allow for decentralized verification of credentials like STARs.<sup>69</sup>
   * **Blockchain Anchoring:** Periodically anchoring cryptographic summaries (e.g., Merkle roots) of the registry state onto a public blockchain to provide external, publicly verifiable tamper-evidence against retroactive data manipulation.<sup>73</sup>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 These rigorous operational rules and security features directly address the weaknesses of informal or opaque tracking methods.<sup>5</sup> By grounding STARs in verifiable physical principles and leveraging robust digital infrastructure, the Granular Registry aims to establish STARs as a highly credible and trustworthy instrument for the energy market.

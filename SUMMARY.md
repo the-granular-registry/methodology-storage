@@ -4,6 +4,9 @@
 * [The Imperative for Granular Tracking and Energy Time-Shifting](the-imperative-for-granular-tracking-and-energy-time-shifting.md)
 * [Introducing Storage Time Allocation Records (STARs): A Market-Based Solution](introducing-storage-time-allocation-records-stars-a-market-based-solution.md)
 * [STARs vs. Storage Tolling Agreements: A Strategic Comparison](stars-vs.-storage-tolling-agreements-a-strategic-comparison.md)
+* [Use Case I: Enabling Credible 24/7 Carbon-Free Energy (CFE)](use-case-i-enabling-credible-24-7-carbon-free-energy-cfe.md)
+* [Use Case II: Maximizing Carbon Impact via Emissionality-Driven Strategies](use-case-ii-maximizing-carbon-impact-via-emissionality-driven-strategies.md)
+* [Page](page.md)
 
 ## PROCESS
 

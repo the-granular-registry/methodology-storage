@@ -37,7 +37,7 @@ While storage offers this multitude of benefits, the specific value derived from
 
 ## Identifying the Market Gap for Storage Attribute Tracking
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The convergence of advanced corporate decarbonization goals, the limitations of conventional EACs, and the crucial role of energy storage highlights a clear market gap: the absence of a standardized, transparent, liquid, and auditable instrument for trading the time-shifting attribute of stored clean energy.
 
